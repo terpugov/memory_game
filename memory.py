@@ -1,6 +1,6 @@
 # implementation of card game - Memory
 
-import simplegui
+import simpleguitk as simplegui
 import random
 state = 0
 previous_index = None
